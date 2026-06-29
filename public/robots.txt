@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://dummy-one-smoky.vercel.app/robots.txt
+ 

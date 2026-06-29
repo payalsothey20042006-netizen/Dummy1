@@ -1,0 +1,6 @@
+{
+  "name": "FitClub",
+  "description": "A premium fitness product website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
