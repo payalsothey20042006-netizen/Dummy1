@@ -126,6 +126,95 @@ export function Home() {
               Shop All Products
             </button>
         </motion.div>
+        <!-- FAQ Section -->
+<section class="faq-section" id="faq">
+    <div class="faq-container">
+
+        <h2>Frequently Asked Questions</h2>
+        <p class="faq-subtitle">
+            Find answers to the most common questions about FitClub.
+        </p>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                What is FitClub?
+                <span>+</span>
+            </button>
+            <div class="faq-answer">
+                <p>
+                    FitClub is an online fitness platform where you can
+                    explore fitness products, gym equipment and workout
+                    accessories.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                What type of fitness products do you offer?
+                <span>+</span>
+            </button>
+            <div class="faq-answer">
+                <p>
+                    We offer a variety of fitness products including workout
+                    equipment, gym accessories and fitness essentials.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                Are the products suitable for beginners?
+                <span>+</span>
+            </button>
+            <div class="faq-answer">
+                <p>
+                    Yes, our fitness products are suitable for beginners as
+                    well as experienced fitness enthusiasts.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                How can I choose the right fitness equipment?
+                <span>+</span>
+            </button>
+            <div class="faq-answer">
+                <p>
+                    Choose equipment according to your fitness goal, available
+                    space, workout type and experience level.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                Can I use FitClub products for home workouts?
+                <span>+</span>
+            </button>
+            <div class="faq-answer">
+                <p>
+                    Yes. Many of our fitness accessories and equipment are
+                    suitable for convenient home workouts.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                How can I contact FitClub?
+                <span>+</span>
+            </button>
+            <div class="faq-answer">
+                <p>
+                    You can contact FitClub through the contact section
+                    available on our website.
+                </p>
+            </div>
+        </div>
+
+    </div>
       </section>
     </div>
   );
